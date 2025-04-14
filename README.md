@@ -30,7 +30,7 @@ backend/
 │   └── config/
 └── MyPayListApplication.java
 
-
+```
 ---
 
 ## 🗂 ERD (Entity Relationship Diagram)
